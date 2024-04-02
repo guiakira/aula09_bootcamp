@@ -10,4 +10,4 @@ def soma(x,y):
 
 
 
-logger.info(soma(2,3))
+print(soma(2,"3"))
